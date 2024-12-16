@@ -1,4 +1,5 @@
-import { FaLongArrowAltRight } from "react-icons/fa";
+import { FaLongArrowAltRight } from "react-icons/fa"
+
 export const HeroSection = () => {
    
         return (
@@ -12,7 +13,7 @@ export const HeroSection = () => {
                         <button className="btn btn-darken-inline bg-white-box">Start Exploring<FaLongArrowAltRight/> {/* react Icons */}</button>
                     </div>
                     <div className="hero-image">
-                        <img src="/public/small-world-map-with-names-poster-medium-pf0011-zgx-original-imagrycdz7zaypws.webp" alt=" img"></img>
+                        <img src="/public/images/small-world-map-with-names-poster-medium-pf0011-zgx-original-imagrycdz7zaypws.webp" alt=" img"></img>
                     </div>
                 </div>
             </main>

@@ -15,7 +15,7 @@ return setShow(!show);
              <div className="grid navbar-grid">
             <div className="Logo">
                <NavLink to="/">    {/*Hompage ka path */}
-               <h1>OM NAMAH SHIVAY</h1>
+               <h1>World atlas</h1>
                </NavLink>
                 </div>
                 <nav className={show ? "menu-mobile" : "menu-web"}>
